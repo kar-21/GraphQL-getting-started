@@ -1,6 +1,6 @@
 # GraphQL
 
-[![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/facebook/react/blob/master/LICENSE) [![npm version](https://img.shields.io/badge/express-v4.17.1-green)](https://www.npmjs.com/package/express) [![npm version](https://img.shields.io/badge/GraphQL-v14.5.5-red)](https://www.npmjs.com/package/graphql) 
+[![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/facebook/react/blob/master/LICENSE) [![npm version](https://img.shields.io/badge/express-v4.17.1-green)](https://www.npmjs.com/package/express) [![npm version](https://img.shields.io/badge/GraphQL-v14.6.0-red)](https://www.npmjs.com/package/graphql) [![npm version](https://img.shields.io/badge/mongoose-v5.9.18-yellow)](https://www.npmjs.com/package/mongoose) 
 
 Project is to learn GraphQl. Single api which gives what we query for what we need. Go through their website [GraphQL].
 
